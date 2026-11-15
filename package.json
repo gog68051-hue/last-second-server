@@ -1,0 +1,12 @@
+{
+  "name": "last-second-server",
+  "version": "1.0.0",
+  "description": "LAST SECOND online PvP server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
